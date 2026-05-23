@@ -21,7 +21,7 @@
 <tr border="none">
 <td width="50%" align="center">
   <br></br>
-  <img title="Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=false" /> 
+  <img title="Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseRE21theme=tokyonight&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
