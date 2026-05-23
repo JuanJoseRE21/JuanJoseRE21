@@ -13,13 +13,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <br>
-  <img title="Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseRE21&theme=tokyonight&hide_border=false" /> 
-</td>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
   <img title="Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseRE21&theme=tokyonight&hide_border=false" /> 
 </td>
 
