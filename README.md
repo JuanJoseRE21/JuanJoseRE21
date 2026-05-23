@@ -25,14 +25,14 @@
 </td>
 
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanJoseRE21&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
 </table>
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=green&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=JuanJoseRE21&theme=green&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>        
@@ -56,7 +56,7 @@
 </div>
 
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=TU_USUARIO&icon=3&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=JuanJoseRE21&icon=3&color=6)](https://visitcount.itsvg.in)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=mediumseagreen&height=120&section=footer"/>
