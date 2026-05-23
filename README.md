@@ -1,15 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=mediumseagreen&height=120&section=header"/>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Juan</h1></summary>
-  </ul>
-</div>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">FullStack Developer in training</h2></summary>
-  </ul>
+<div align="center">
+  <h1>Hi 👋, I'm Juan</h1>
+  <h2>FullStack Developer in training</h2>
 </div>
 
 - 🌱 I’m currently learning new ways to improve. 
@@ -20,8 +13,8 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <br></br>
-  <img title="Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseRE21theme=tokyonight&hide_border=false" /> 
+  <br>
+  <img title="Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseRE21&theme=tokyonight&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -37,10 +30,8 @@
 </div>
 </p>        
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+<div align="center">
+  <h2>Technologies That I Know👨🏻‍💻</h2>
 </div>
 
 <p align="center">
