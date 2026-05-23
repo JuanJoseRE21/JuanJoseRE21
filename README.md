@@ -17,8 +17,14 @@
   <img title="Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseRE21&theme=tokyonight&hide_border=false" /> 
 </td>
 
+<table align="center">
+<tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanJoseRE21&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img title="Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseRE21&theme=tokyonight&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JuanJoseRE21&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
 </td>
 </tr>
 </table>
