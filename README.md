@@ -49,14 +49,4 @@
   </a>
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=JuanJoseRE21&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=mediumseagreen&height=120&section=footer"/>
