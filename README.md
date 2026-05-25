@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=mediumseagreen&height=120&section=header"/>
 
 <div align="center">
-  <h1>I'm Juan</h1>
+  <h1>I'm Juan 🗣️</h1>
   <h2>FullStack Developer in training</h2>
 </div>
 
-- 🌱 I’m currently learning new ways to improve. 
-- ☁️ I've keen interest in **FullStack**.
-- 💬 Ask me about **HTML, CSS, PYTHON, JAVA, JAVASCRIPT**
+- 💾 I’m currently learning new ways to improve. 
+- 💽 I've keen interest in **FullStack**.
+- ❔ Ask me about **HTML, CSS, PYTHON, JAVA, JAVASCRIPT**
 
 <p align="center">
 <table align="center">
@@ -30,7 +30,7 @@
 </p>        
 
 <div align="center">
-  <h2>Technologies That I Know👨🏻‍💻</h2>
+  <h2>Technologies That I Know 🤓☝️</h2>
 </div>
 
 <p align="center">
