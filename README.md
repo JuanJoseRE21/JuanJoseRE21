@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=mediumseagreen&height=120&section=header"/>
 
 <div align="center">
-  <h1>Hi 👋, I'm Juan</h1>
+  <h1>I'm Juan</h1>
   <h2>FullStack Developer in training</h2>
 </div>
 
